@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css">
 </head>
 <body>
-    Sitio web
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <ul class="nav navbar-nav">
             <li class="nav-item">
